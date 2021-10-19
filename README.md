@@ -1,2 +1,2 @@
 # Image-classifier
-ML mode tp identify handwritten digit images
+ML mode t0 identify handwritten digit images
